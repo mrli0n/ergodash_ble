@@ -1,0 +1,4 @@
+name: ergodash_ble
+build:
+  settings:
+    board_root: .

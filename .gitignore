@@ -1,0 +1,8 @@
+.DS_Store
+Icon
+/zmk/
+/zephyr/*
+!/zephyr/module.yml
+/modules/
+/build/
+/.west/

@@ -1,0 +1,12 @@
+file_format: "1"
+id: ergodash_ble
+name: Ergodash BLE
+type: shield
+url: https://github.com/mrli0n/ergodash_ble
+requires: [pro_micro]
+features:
+  - keys
+  - underglow
+siblings:
+  - ergodash_ble_left
+  - ergodash_ble_right

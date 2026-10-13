@@ -1,0 +1,8 @@
+---
+include:
+  - board: nrfmicro@1.3.0/nrf52840/zmk
+    shield: ergodash_ble_left
+  - board: nrfmicro@1.3.0/nrf52840/zmk
+    shield: ergodash_ble_right
+  - board: nrfmicro@1.3.0/nrf52840/zmk
+    shield: settings_reset
